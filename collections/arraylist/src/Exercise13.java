@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Objects;
 
 public class Exercise13 {
     public static void main(String[] args) {
@@ -9,7 +10,7 @@ public class Exercise13 {
         ArrayList<Boolean> results = new ArrayList<>();
 
         for (int i=0; i<numbers.size(); i++) {
-            if (numbers.get(i) == numbers2.get(i)) {
+            if (Objects.equals(numbers.get(i), numbers2.get(i))) {
                 results.add(true);
             } else {
                 results.add(false);

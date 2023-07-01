@@ -8,6 +8,6 @@ public class Exercise3 {
         colors.add("Orange");
 
         colors.add(0, "Purple");
-        System.out.println(colors.toString());
+        System.out.println(colors);
     }
 }

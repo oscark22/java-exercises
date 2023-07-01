@@ -7,6 +7,6 @@ public class Exercise14 {
         ArrayList<Integer> numbers = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));
 
         Collections.swap(numbers, 0, 1);
-        System.out.println(numbers.toString());
+        System.out.println(numbers);
     }
 }

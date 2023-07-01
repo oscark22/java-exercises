@@ -5,7 +5,7 @@ public class Exercise6 {
         HashMap<Integer, Integer> items = new HashMap<>();
         items.put(2, 2);
 
-        HashMap<Integer, Integer> copy = (HashMap) items.clone();
+        HashMap<Integer, Integer> copy = new HashMap<>(items);
         items.put(2, 4);
 
         System.out.println(items);
