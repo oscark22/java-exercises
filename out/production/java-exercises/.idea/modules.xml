@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/collections/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/collections/hashmap/hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/hashset/hashset.iml" filepath="$PROJECT_DIR$/collections/hashset/hashset.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-exercises.iml" filepath="$PROJECT_DIR$/.idea/java-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other/other.iml" filepath="$PROJECT_DIR$/other/other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/priority-queue/priority-queue.iml" filepath="$PROJECT_DIR$/collections/priority-queue/priority-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream/stream.iml" filepath="$PROJECT_DIR$/stream/stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream2/stream2.iml" filepath="$PROJECT_DIR$/stream2/stream2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/treemap/treemap.iml" filepath="$PROJECT_DIR$/collections/treemap/treemap.iml" />
     </modules>
   </component>
 </project>
